@@ -1,4 +1,4 @@
-## Hi there 👋
+##  ᐢ • ˕ • ᐢ 🎀
 
 <!--
 **lovnelies/lovnelies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
