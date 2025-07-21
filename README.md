@@ -5,7 +5,7 @@ Hello! I'm Yuli.
 
 ## . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 
-![App Screenshot](https://i.pinimg.com/736x/25/e4/86/25e4864a1db1b2c8746f2368aa30160a.jpg)
+![App Screenshot](https://i.pinimg.com/1200x/4d/00/ce/4d00ce97bea94984758ed32c942b69a6.jpg)
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
